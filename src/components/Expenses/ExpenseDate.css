@@ -1,0 +1,9 @@
+.expense-item_date {
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 12px;
+    border: 1px solid white;
+    background-color: darkgray;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    justify-content: space-between;
+}
