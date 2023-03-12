@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# About Project: Cost Tracker
+
+An interactive react web app to track daily costs with filters.
+
+Features:
+- Add cost(cost, name, amount)
+- List costs by year
+- An animated graph showing cost breakdown by months
+
+### Snapshots
+
+Add new cost
+![Cost-tracker](https://user-images.githubusercontent.com/8665803/224535369-6aa9b7a8-15d4-438d-9e4c-f2e56d4ef21b.png)
+
+Cost List, filter by year
+![Cost-tracker-filter](https://user-images.githubusercontent.com/8665803/224535399-90f391f4-720f-4b10-b069-fbffe41f7c1a.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
